@@ -1,0 +1,19 @@
+id: A04BD10B0
+title: Brief Prayer to the Earlier and Later Terma Lineages
+type: translation
+pechas:
+- I092C8DCE
+- I3E2EDF99
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:33:28.736389
+  last_modified_at: 2023-01-04 12:33:28.736416
+  collections:
+  - Jamyang Khyentse Wangpo Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I092C8DCE/4ED8: 9C9E
+  I3E2EDF99/95AD: 9C9E
